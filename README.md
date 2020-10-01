@@ -1,1 +1,1 @@
-# Here is my practice of programming MS SQL Server DBMS
+# Here is my practice of programming MS SQL Server
