@@ -1,0 +1,5 @@
+﻿CREATE TABLE [dbo].[Должности]
+(
+	id INT PRIMARY KEY IDENTITY,
+	Имя NVARCHAR(30) NOT NULL
+)

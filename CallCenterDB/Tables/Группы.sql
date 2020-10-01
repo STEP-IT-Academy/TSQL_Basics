@@ -1,0 +1,6 @@
+﻿CREATE TABLE [dbo].[Группы]
+(
+	id INT PRIMARY KEY IDENTITY,
+	Имя NVARCHAR(10) NOT NULL,
+	Супервайзер INT NOT NULL
+)

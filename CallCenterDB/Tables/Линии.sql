@@ -1,0 +1,6 @@
+﻿CREATE TABLE [dbo].[Линии]
+(
+	id INT PRIMARY KEY IDENTITY,
+	Описание NVARCHAR(255) NULL,
+	Приоритет INT NOT NULL DEFAULT 1
+)
