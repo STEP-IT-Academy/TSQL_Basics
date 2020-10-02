@@ -1,14 +1,14 @@
-## Задание 1
-### Написать запрос, выводящий имена сотрудников, имеющих тезок и их количество.
+## Task 1
+### Write a query that outputs the names of employees with namesakes and their number.
 
-## Задание 2 
-### Написать запрос, выводящий фамилии сотрудников, время ответа на звонок и фамилию супервайзера группы, где работают эти сотрудники. В выборку должны попадать только сотрудники у которых были звонки с временем ответа более 8 минут. Выборку отсортировать по убыванию времени ответа.
+## Task 2
+### Write a query that displays the names of employees, the time of response to the call, and the name of the supervisor of the group where these employees work. The sample should only include employees who have had calls with a response time of more than 8 minutes. Sort the selection in descending order of response time.
 
-## Задание 3
-### Сделать выборку содержащую: Название группы, фамилию сотрудника этой группы с наибольшим суммарным временем разговора, суммарное время в минутах этого сотрудника.
+## Task 3
+### Make a selection containing: the name of the group, the last name of the employee of this group with the highest total conversation time, the total time in minutes of this employee.
 
-## Задание 4
-### Написать хранимую процедуру «ОборотнаяВедомость», рассчитывающую по сотрудникам за указанный период сумму начисленной зарплаты, суммы выплаченной зарплаты и сумму задолженности по зарплате (разница между начисленным и выплаченным).
+## Task 4
+### Write a stored procedure "Turnover knowledge" that calculates the amount of accrued salary, the amount of paid salary, and the amount of salary arrears (the difference between accrued and paid) for employees for the specified period.
 
-## Задание 5
-### Написать скалярную функцию «СписокИменинников». Функция, для указанной в параметре даты, должна возвращать строку со списком (через запятую) работающих сотрудников, у которых эта дата - день рождения.
+## Task 5
+### Write a scalar function "list of Birthday people". The function, for the date specified in the parameter, should return a string with a list (separated by commas) of employees who have this date - their birthday.
